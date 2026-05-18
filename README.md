@@ -1,0 +1,1 @@
+The Surya-Shakti Solar Monitor is an Android-based application designed to help households  effectively monitor and optimize their solar energy usage. With the increasing adoption of  rooftop solar panels in rural and semi-urban areas, users often lack clarity on the balance  between energy generation and consumption.
